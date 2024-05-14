@@ -1,5 +1,0 @@
-{
-  "newAccount": "https://example.com/acme/new-account",
-  "newAuthz": "https://example.com/acme/new-authz",
-  "newOrder": "https://example.com/acme/new-order"
-}
